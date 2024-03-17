@@ -14,8 +14,7 @@ import { Person } from 'India';
 new Person({
     name   : 'Rakshitha R Nayak',
     title  : 'Verification Engineer',
-    email  : 'rakshitharnayak13@gmail.com',
-    married: !true,
+    email  : 'rakshitharnayak13@gmail.com'
 }).introduce();
 ```
 
