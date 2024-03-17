@@ -92,9 +92,6 @@ Hi, my name is Rakshitha R Nayak, I'm a Verification Engineer.
 
 
 
-![snake animation](https://github.com/rakshitharnayak/rakshitharnayak/blob/output/github-contribution-grid-snake2.svg)
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 
