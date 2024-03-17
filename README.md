@@ -36,7 +36,7 @@ Hi, my name is Rakshitha R Nayak, I'm a Verification Engineer.
 </div>
 <!--tech stack icons-->
 <p align="center">
-<a href="https://skillicons.dev">
+<a href="[https://skillicons.dev](https://drive.google.com/file/d/19ak3ku0I_MT6_XgGgGujx1eR1xryApqQ/view?usp=sharing)">
 <img src="https://drive.google.com/file/d/19ak3ku0I_MT6_XgGgGujx1eR1xryApqQ/view?usp=sharing" />
 </a>
 </p>
