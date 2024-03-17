@@ -37,7 +37,7 @@ Hi, my name is Rakshitha R Nayak, I'm a Verification Engineer.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://drive.google.com/file/d/19ak3ku0I_MT6_XgGgGujx1eR1xryApqQ/view?usp=sharing">
-<img src="/assets/images/language_konwn.drawio.png" />
+<img src="/assets/images/language_konwn.drawio.png">
 </a>
 </p>
 
