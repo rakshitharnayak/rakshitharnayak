@@ -53,33 +53,6 @@ Hi, my name is Rakshitha R Nayak, I'm a Verification Engineer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitharnayak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">⭐My Favorite Repo⭐</h3>
-
-<div>
-  <p align="center">
-	<a href="https://github.com/rakshitharnayak/Synchronous_FIFO">
-      		<img src="/assets/images/fifo.png" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/rakshitharnayak/axi4_testbench">
-      		<img src="/assets/images/axi4.png" alt="GitHub Stats" />
-    	</a>
-		<!---
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
-    	</a> --->
-</div>
 
 
 
